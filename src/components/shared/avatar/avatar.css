@@ -1,0 +1,8 @@
+.avatar-base{
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    line-height: 2em;
+    text-align: center;
+    display: flex;
+}

@@ -1,1 +1,42 @@
-{}
+[
+    {
+        "commentId": 1,
+        "parentId": 0,
+        "level": 0,
+        "userId": "user_1",
+        "timestamp": "1y",
+        "commentText": "Though it seems the drag feature could be improved. But overall it looks good I think. I have adjusted the design and the responsiveness at various breakpoints works really well."
+    },
+    {
+        "commentId": 2,
+        "parentId": 1,
+        "level": 1,
+        "userId": "someone",
+        "timestamp": "1mo",
+        "commentText": "Woah, your project looks awesome! How long have you been coding for? I’m still new, but think I want to dive into React as well soon. Perhaps you can give me an insight on where I can learn React? Thanks!"
+    },
+    {
+        "commentId": 3,
+        "parentId": 2,
+        "level": 2,
+        "userId": "aperson_89",
+        "timestamp": "1d",
+        "commentText": "If you’re still new, I’d recommend focusing on the fundamentals of HTML, CSS, and JS before considering React. It’s very tempting to jump ahead but lay a solid foundation first."
+    },
+    {
+        "commentId": 4,
+        "parentId": 3,
+        "level": 3,
+        "userId": "onemore_83",
+        "timestamp": "1d",
+        "commentText": "You could also check this website: codingisfun.com. They have a great blog with tons of resources!"
+    },
+    {
+        "commentId": 5,
+        "parentId": 0,
+        "level": 0,
+        "userId": "anotherguy",
+        "timestamp": "1d",
+        "commentText": "I couldn’t agree more with this. Everything moves so fast and it always seems like everyone knows the newest library/framework. But the fundamentals are what stay constant."
+    }
+]

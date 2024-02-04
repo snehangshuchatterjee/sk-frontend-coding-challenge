@@ -11,6 +11,11 @@ export const UserIcon = ({
     width="20px"
     height="20px"
     fill="none"
+    style={{
+      display: 'block',
+      margin: 'auto',
+      lineHeight: '2em',
+    }}
     {...restProps}
   >
     <path
